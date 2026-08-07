@@ -3,6 +3,7 @@ package com.javanauta.aprendendosprint.infrastructure.repository;
 import com.javanauta.aprendendosprint.infrastructure.entity.Usuario;
 
 import jakarta.transaction.Transactional;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
